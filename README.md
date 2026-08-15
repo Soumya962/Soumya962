@@ -21,7 +21,7 @@
 ## Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git,servicenow" width="42"/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git,servicenow" width="200"/>
 </p>
 
 <!--
