@@ -22,7 +22,7 @@ I' Soumya Prahlada
 ## Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git" width="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git" width="200"/>
   <img src="https://www.lakesidesoftware.com/wp-content/uploads/2023/10/servicenow.webp" width="40" height="40">
 </p>
 
