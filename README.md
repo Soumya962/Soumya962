@@ -4,15 +4,15 @@
 
 <p>
   <a href="https://www.linkedin.com/in/soumya-prahlada-bb6800290/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="200">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40">
   </a>
 
   <a href="mailto:soumyaprahlada@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="200">
+    <img src="https://cdn.simpleicons.org/gmail" width="40">
   </a>
 
   <a href="https://github.com/Soumya962">
-    <img src="https://skillicons.dev/icons?i=github" width="200">
+    <img src="https://skillicons.dev/icons?i=github" width="40">
   </a>
 </p>
 
