@@ -1,19 +1,18 @@
-## Hi there 👋 
-I' Soumya Prahlada
+## Hi there 👋 I' Soumya Prahlada
 ---
 ## Feel Free to Connect
 
 <p>
   <a href="www.linkedin.com/in/soumya-prahlada-bb6800290">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42">
   </a>
 
   <a href="mailto:soumyaprahlada@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="40">
+    <img src="https://cdn.simpleicons.org/gmail" width="42" height="42">
   </a>
 
   <a href="https://github.com/Soumya962">
-    <img src="https://skillicons.dev/icons?i=github" width="40">
+    <img src="https://skillicons.dev/icons?i=github" width="42" height="42"">
   </a>
 </p>
 
@@ -23,7 +22,7 @@ I' Soumya Prahlada
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git" width="200"/>
-  <img src="https://www.lakesidesoftware.com/wp-content/uploads/2023/10/servicenow.webp" width="40" height="40">
+  <img src="https://www.lakesidesoftware.com/wp-content/uploads/2023/10/servicenow.webp" width="40" height="42">
 </p>
 
 <!--
