@@ -1,21 +1,18 @@
-## Hi there 👋
-
-<h1 align="center"> Tech Curious & Service Oriented 🚀</h1>
-
+## Hi there 👋 <h1 align="left">, I'm Soumya</h1>
 ---
 ## Feel Free to Connect
 
 <p>
   <a href="www.linkedin.com/in/soumya-prahlada-bb6800290">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40">
   </a>
 
   <a href="mailto:soumyaprahlada@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="45">
+    <img src="https://cdn.simpleicons.org/gmail" width="40">
   </a>
 
   <a href="https://github.com/Soumya962">
-    <img src="https://skillicons.dev/icons?i=github" width="45">
+    <img src="https://skillicons.dev/icons?i=github" width="40">
   </a>
 </p>
 
@@ -24,8 +21,8 @@
 ## Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git" />
-  <img src="https://cdn.simpleicons.org/servicenow" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git" width="280"/>
+  <img src="https://www.lakesidesoftware.com/wp-content/uploads/2023/10/servicenow.webp" width="40" height="40">
 </p>
 
 <!--
