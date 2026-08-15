@@ -22,7 +22,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git" width="200"/>
-  <img src="https://yt3.googleusercontent.com/LkCd4235_fTI6GZA4yvfafwrpL8P7kRCY9woKGcFwPyl1PCQ0vS24wfdgFgkgN462un6vY1F=s900-c-k-c0x00ffffff-no-rj" width="42" height="42">
+  <img src="https://yt3.googleusercontent.com/LkCd4235_fTI6GZA4yvfafwrpL8P7kRCY9woKGcFwPyl1PCQ0vS24wfdgFgkgN462un6vY1F=s900-c-k-c0x00ffffff-no-rj" width="200">
 </p>
 
 <!--
