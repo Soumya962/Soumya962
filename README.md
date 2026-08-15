@@ -1,4 +1,5 @@
-## Hi there 👋 <h1 align="left">, I'm Soumya</h1>
+## Hi there 👋 
+I' Soumya Prahlada
 ---
 ## Feel Free to Connect
 
@@ -21,7 +22,7 @@
 ## Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git" width="280"/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git" width="40"/>
   <img src="https://www.lakesidesoftware.com/wp-content/uploads/2023/10/servicenow.webp" width="40" height="40">
 </p>
 
