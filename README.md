@@ -3,16 +3,16 @@
 ## Feel Free to Connect
 
 <p>
-  <a href="www.linkedin.com/in/soumya-prahlada-bb6800290">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42">
+  <a href="https://www.linkedin.com/in/soumya-prahlada-bb6800290/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="200">
   </a>
 
   <a href="mailto:soumyaprahlada@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="42" height="42">
+    <img src="https://cdn.simpleicons.org/gmail" width="200">
   </a>
 
   <a href="https://github.com/Soumya962">
-    <img src="https://skillicons.dev/icons?i=github" width="42" height="42">
+    <img src="https://skillicons.dev/icons?i=github" width="200">
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 ## Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git,servicenow" width="200"/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git" width="200"/>
 </p>
 
 <!--
