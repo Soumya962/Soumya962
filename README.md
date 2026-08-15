@@ -1,5 +1,33 @@
 ## Hi there 👋
 
+<h1 align="center"> Tech Curious & Service Oriented 🚀</h1>
+
+---
+## Feel Free to Connect
+
+<p>
+  <a href="www.linkedin.com/in/soumya-prahlada-bb6800290">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45">
+  </a>
+
+  <a href="mailto:soumyaprahlada@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="45">
+  </a>
+
+  <a href="https://github.com/Soumya962">
+    <img src="https://skillicons.dev/icons?i=github" width="45">
+  </a>
+</p>
+
+---
+
+## Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,git" />
+  <img src="https://cdn.simpleicons.org/servicenow" width="48" height="48">
+</p>
+
 <!--
 **Soumya962/Soumya962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
